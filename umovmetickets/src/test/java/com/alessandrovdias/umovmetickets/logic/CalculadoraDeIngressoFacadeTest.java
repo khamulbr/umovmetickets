@@ -1,4 +1,4 @@
-package com.alessandrovdias.umovmetickets.model.interfaces;
+package com.alessandrovdias.umovmetickets.logic;
 
 import static org.junit.Assert.assertEquals;
 
